@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Japan has chosen Dragon Ball Z's Goku as an ambassador of the 2020 Tokyo Olympics [1]. More fun facts at [2]
 
 [1] https://www.facebook.com/watch/?v=1724049321242162
+
 [2] https://www.reddit.com/r/todayilearned/top/?t=year
