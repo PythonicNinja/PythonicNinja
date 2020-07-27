@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 
 -->
 
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 - 🔭 I’m currently working on projects
 - 🌱 I’m currently learning svelte
