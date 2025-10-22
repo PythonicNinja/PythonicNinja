@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 - 🔭 I’m currently working on projects
-- 🌱 I’m currently learning svelte
+- 🌱 I’m currently learning genAI and completing [skills.google.com](https://www.skills.google/public_profiles/d46f18e0-9d4a-4197-b9b7-6d5a8317700f)
 - 👯 I’m looking to collaborate on new cool products
 - 💬 Ask me about anything
 - 📫 How to reach me: mail@pythonic.ninja
