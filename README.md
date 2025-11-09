@@ -5,10 +5,9 @@
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with 
 - 😄 Pronouns: 
--->
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
+-->
 
 📖 My blog with recent findings / projects and food-for-thought [pythonic.ninja](https://pythonic.ninja)
 
