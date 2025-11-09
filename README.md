@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: everyone in Singapore above the age of 21 is automatically registered as an organ donor. Opting out from this Act will result in you being put at the very bottom of the organ priority list, should you need an organ transplantation. [1] More fun facts at [2]
 
 
-[1] https://www.moh.gov.sg/policies-and-legislation/human-organ-transplant-act
-[2] https://www.reddit.com/r/todayilearned/top/?t=year
+References:
+- [1] https://www.moh.gov.sg/policies-and-legislation/human-organ-transplant-act
+- [2] https://www.reddit.com/r/todayilearned/top/?t=year
